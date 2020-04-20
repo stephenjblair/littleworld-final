@@ -35,7 +35,7 @@ body {
 .home-inner {
   background-image: url(../img/coffee1.jpg);
 }
-.app-button {
+/*.app-button {
   height: 15vh;
   width: 40vw;
   background-color: #fff;
@@ -59,7 +59,7 @@ body {
 }
 .appbutton a:active {
   text-decoration: underline;
-}
+} */
 .second-inner {
   background-image: url(../img/food.jpg);
   width: 100%;
